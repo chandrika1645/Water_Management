@@ -1,7 +1,7 @@
 # ML Prediction with Streamlit
 
 ## Overview
-This project was my **3rd-year annual project at VIT**, where I developed the **front-end using Streamlit**. The goal of the project is to predict water levels based on environmental factors such as **precipitation, salinity, and evaporation** using a pre-trained deep learning model.
+This project is my **3rd-year annual project at VIT**, where I developed the **front-end using Streamlit**. The goal of the project is to predict water levels based on environmental factors such as **precipitation, salinity, and evaporation** using a pre-trained deep learning model.
 
 ## Features
 - **Streamlit-based UI** for easy interaction
